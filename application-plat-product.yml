@@ -1,5 +1,0 @@
-server:
-  port: 3009
-spring:
-  application:
-    name: product-service
